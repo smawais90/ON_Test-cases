@@ -1,4 +1,4 @@
-# ON_Test-cases
+# ON Test cases
 
 - Clone the project in local directory from github
 - Open console with the path to your project folder
