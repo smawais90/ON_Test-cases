@@ -1,0 +1,8 @@
+*.mp4
+*.jpeg
+*.png
+node_modules
+npm-debug.log
+report
+videos
+screenshots

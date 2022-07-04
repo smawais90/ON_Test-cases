@@ -1,0 +1,17 @@
+{
+  "email": "syed.awais2802@gmail.com",
+  "password": "123456",
+  "first_name": "Syed Muhammad",
+  "last_name": "Awais",
+  "Address": "Wadzeckstraße 10",
+  "postal_code": "10178",
+  "city": "Berlin",
+  "Country": "Germany",
+  "phone": "+4917658408245",
+  "credit_card_info": {
+    "card_no": "4111 1111 4555 1142",
+    "date_of_expirt": "0330",
+    "cvc": "737",
+    "Name": "Syed Muhammad Awais"
+  }
+}

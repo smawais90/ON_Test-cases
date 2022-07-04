@@ -1,0 +1,20 @@
+{
+  "baseUrl": "https://on:trend@staging-beta.on-running.com",
+  "pageLoadTimeout": 180000,
+  "chromeWebSecurity": false,
+  "failOnStatusCode": false,
+  "retries": 1,
+  "viewportWidth": 1440,
+  "viewportHeight": 720,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "reporterEnabled": "mochawesome",
+    "mochawesomeReporterOptions": {
+      "reportDir": "cypress/reports/mocha",
+      "quite": true,
+      "overwrite": false,
+      "html": true,
+      "json": true
+    }
+  }
+}
